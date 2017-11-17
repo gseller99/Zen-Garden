@@ -1,0 +1,38 @@
+body {
+	/*color: darkred;*/
+	background-image: url("../Images/spotlights.jpg");
+	background-repeat: no-repeat;
+	background-position: top center;
+	height: 100px; 
+
+}	
+
+.preamble {
+	background-image: url("../Images/download.jpg");
+	background-repeat: no-repeat;
+	background-position: left top;
+	color: green;
+	font-size: 30px;
+}
+
+.preamble h3 {
+	color: purple;
+	font-weight: bolder;
+}
+
+
+
+h1 {
+	font-family: Arial;
+	text-align: center;
+	text-decoration: overline;
+	font-size: 95px;
+	color: #AAFF01;
+	background-image: url("../Images/curtains-background.jpg");
+	height: 195px;}
+
+h2 {
+	font-family:Helvetica;
+	font-style:italic;
+	color: #FF00AA;
+}
